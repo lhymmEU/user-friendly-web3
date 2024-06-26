@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import icon from '@public/next.svg';
+import icon from '@/public/next.svg';
 import { title } from "process";
 
 type HeaderProps = {
